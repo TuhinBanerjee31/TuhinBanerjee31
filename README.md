@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinbanerjee31&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinbanerjee31" /> </p>
 
-- 🔭 A sophomore BCA undergrad
+- 🔭 A second-year BCA undergrad
 
-- 🌱 I’m currently learning **Back-end** & **DSA**
+- 🌱 I’m currently learning **React-Native** & **DSA**
 
 - 💬 Ask me about **Code and Anime**
 
