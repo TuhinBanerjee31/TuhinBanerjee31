@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Tuhin Banerjee</h1>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=622&lines=An+Passionate+Developer+from+India">
+<img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=622&lines=A+Passionate+Developer+from+India">
 </div >
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
