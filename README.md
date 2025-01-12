@@ -9,7 +9,7 @@
 
 - 🔭 A final-year BCA undergrad
 
-- 🌱 I’m currently learning **React-Native** & **DSA**
+- 🌱 I’m currently learning **WEB3** & **DevOPs**
 
 - 💬 Ask me about **Code and Anime**
 
